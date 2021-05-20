@@ -2,8 +2,7 @@
   "kind": "collectionType",
   "collectionName": "actors",
   "info": {
-    "name": "actors",
-    "description": ""
+    "name": "actors"
   },
   "options": {
     "increments": true,
@@ -17,13 +16,11 @@
       "required": true
     },
     "last_name": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "movies": {
-      "collection": "movies",
-      "via": "actors",
-      "dominant": true
+      "via": "actor",
+      "collection": "movies"
     }
   }
 }

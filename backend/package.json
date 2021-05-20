@@ -11,16 +11,16 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "strapi": "3.6.0",
-    "strapi-admin": "3.6.0",
-    "strapi-utils": "3.6.0",
-    "strapi-plugin-content-type-builder": "3.6.0",
-    "strapi-plugin-content-manager": "3.6.0",
-    "strapi-plugin-users-permissions": "3.6.0",
-    "strapi-plugin-email": "3.6.0",
-    "strapi-plugin-upload": "3.6.0",
-    "strapi-plugin-i18n": "3.6.0",
-    "strapi-connector-bookshelf": "3.6.0",
+    "strapi": "3.6.2",
+    "strapi-admin": "3.6.2",
+    "strapi-utils": "3.6.2",
+    "strapi-plugin-content-type-builder": "3.6.2",
+    "strapi-plugin-content-manager": "3.6.2",
+    "strapi-plugin-users-permissions": "3.6.2",
+    "strapi-plugin-email": "3.6.2",
+    "strapi-plugin-upload": "3.6.2",
+    "strapi-plugin-i18n": "3.6.2",
+    "strapi-connector-bookshelf": "3.6.2",
     "knex": "0.21.18",
     "sqlite3": "5.0.0"
   },
@@ -28,7 +28,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "d0c02074-64c5-41d4-9008-8924ca16b3de"
+    "uuid": "51de7c2e-ac9d-4047-9f51-e5097c4cf206"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
